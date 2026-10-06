@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { background: #f0f0f0; font-family: sans-serif; text-align: center; padding-top: 100px; }
+    </style>
+</head>
+<body>
+
+    <h1>My Live Website</h1>
+    <p>Hello World! This site is live on GitHub Pages.</p>
+
+</body>
+</html>
